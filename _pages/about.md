@@ -6,10 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an **incoming PhD student** at:  
+I'm an **incoming PhD student** jointly affiliated with:  
 **University of Electronic Science and Technology of China (UESTC)**  
-**Shenzhen Loop Area Institute (SLAI)**
+and **Shenzhen Loop Area Institute (SLAI)**
 
+My research interests include:
+- **Brain-inspired Computing**
+- **Spiking Neural Networks**
+- **Neuromorphic Vision**
+- **Single Object Tracking**
+  
 I serve as a **reviewer** for the following venues:
 - **CVPR 2026** (IEEE/CVF Conference on Computer Vision and Pattern Recognition)
 - **NeurIPS 2026** (Conference on Neural Information Processing Systems)
