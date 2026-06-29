@@ -1,0 +1,24 @@
+---
+layout: single
+title: "Demos"
+permalink: /Demos/
+author_profile: true
+---
+
+<!-- ============ 第一项:自动播放的视频 ============ -->
+<!-- 注意:autoplay 必须配合 muted 才能在浏览器中真正自动播放(浏览器自动播放策略)。 -->
+<!-- playsinline 用于让 iOS Safari 内联播放而非强制全屏;loop 表示循环,可按需删除。 -->
+<video
+    autoplay
+    muted
+    loop
+    playsinline
+    preload="auto"
+    controls
+    style="width: 100%; max-width: 800px; height: auto; display: block; margin: 0 auto 1.5em; border-radius: 8px;">
+  <source src="{{ '/images/demos/demo1.mp4' | relative_url }}" type="video/mp4">
+  您的浏览器不支持 HTML5 视频播放。
+</video>
+
+<!-- ============ 后续内容可继续往下写 ============ -->
+<!-- 例如更多视频、说明文字、链接等 -->
