@@ -11,8 +11,8 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Demos"
-    url: /Demos/    
+  # - title: "Demos"
+  #   url: /Demos/    
 
   # - title: "Teaching"
   #   url: /teaching/    
