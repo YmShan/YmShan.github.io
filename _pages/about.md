@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an **incoming PhD student** jointly affiliated with:  
-**University of Electronic Science and Technology of China (UESTC)**  
-and **Shenzhen Loop Area Institute (SLAI)**
+I'm a **PhD candidate** in a joint program between:\
+**University of Electronic Science and Technology of China (UESTC)**\
+and the **Shenzhen Loop Area Institute (SLAI)**
 
 My research interests include:
 - **Brain-inspired Computing**
@@ -19,7 +19,7 @@ My research interests include:
 I serve as a **reviewer** for the following venues:
 - **CVPR 2026** (IEEE/CVF Conference on Computer Vision and Pattern Recognition)
 - **NeurIPS 2026** (Conference on Neural Information Processing Systems)
-- **ICLR 2025&2026** (International Conference on Learning Representations)
+- **ICLR 2025&2026&2027** (International Conference on Learning Representations)
 - **ICML 2026** (International Conference on Machine Learning)
 - **ECCV 2026** (European Conference on Computer Vision)
 - **AAAI 2026&2027** (Annual AAAI Conference on Artificial Intelligence)
