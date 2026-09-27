@@ -30,6 +30,6 @@ I serve as a **reviewer** for the following venues:
 - **TNNLS** (IEEE Transactions on Neural Networks and Learning Systems, **IF 8.9**)
 - **TETCI** (IEEE Transactions on Emerging Topics in Computational Intelligence, **IF 6.5**)
 - **TCDS** (IEEE Transactions on Cognitive and Developmental Systems, **IF 4.9**)
-- **neurocomputing**, **IF 6.5**
 - **PR** (Pattern Recognition, **IF 8.8**)
+- **neurocomputing**, **IF 6.5**
 - **TMLR** (Transactions on Machine Learning Research)
