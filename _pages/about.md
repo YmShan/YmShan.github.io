@@ -18,7 +18,7 @@ My research interests include:
 
 ## Competition Awards
 
-<p class="award-hint">Hover over an award to preview its certificate, or click to open the full image.</p>
+
 <ul class="competition-awards">
   <li><a class="award-certificate" href="{{ '/images/awards/acm-mm-2026-certificate.png' | relative_url }}" target="_blank" rel="noopener noreferrer" data-certificate-alt="First Prize certificate for team Neuromorphic_Computing - UESTC, AdoDAS Challenge at ACM MM 2026, Track A2: DASS-21 Item Prediction and Reconstruction"><strong>ACM MM 2026 — First Prize</strong></a>, AdoDAS Challenge, Track A2: DASS-21 Item Prediction and Reconstruction (Team: Neuromorphic_Computing - UESTC).</li>
   <li><a class="award-certificate" href="{{ '/images/awards/ijcai-2025-spikecv-certificate.png' | relative_url }}" target="_blank" rel="noopener noreferrer" data-certificate-alt="Track 2 Best Dataset and Benchmark Award certificate for SDTrack-Team, the First SpikeCV Competition: Infinity – WUJI at IJCAI 2025"><strong>IJCAI 2025 — Track 2 Best Dataset &amp; Benchmark Award</strong></a>, The First SpikeCV Competition: Infinity – WUJI (Team: SDTrack-Team).</li>
