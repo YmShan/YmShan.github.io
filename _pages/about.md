@@ -137,10 +137,10 @@ My research interests include:
 ## Academic Service
 
 I serve as a **reviewer** for the following venues:
-- **CVPR 2026** (IEEE/CVF Conference on Computer Vision and Pattern Recognition)
+- **CVPR 2026&2027** (IEEE/CVF Conference on Computer Vision and Pattern Recognition)
 - **NeurIPS 2026** (Conference on Neural Information Processing Systems)
 - **ICLR 2025&2026&2027** (International Conference on Learning Representations)
-- **ICML 2026** (International Conference on Machine Learning)
+- **ICML 2026&2027** (International Conference on Machine Learning)
 - **ECCV 2026** (European Conference on Computer Vision)
 - **AAAI 2026&2027** (Annual AAAI Conference on Artificial Intelligence)
 - **IJCNN 2025** (International Joint Conference on Neural Networks)
